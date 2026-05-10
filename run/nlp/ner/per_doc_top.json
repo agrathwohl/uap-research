@@ -1,0 +1,1047 @@
+[
+  {
+    "file": "059uap00011.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "MOSCOW 13169",
+      "MARR",
+      "KCFE",
+      "UN",
+      "OSCE"
+    ],
+    "top_gpe": [
+      "GEORGIA",
+      "NEW YORK",
+      "MOSCOW",
+      "DENIED",
+      "US"
+    ]
+  },
+  {
+    "file": "059uap00012.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "UNCLASSIFIED Sitt",
+      "MRN",
+      "AORC",
+      "TSPA",
+      "PREL"
+    ],
+    "top_gpe": [
+      "WASHINGTON DC",
+      "Turkmenistan",
+      "Fulll",
+      "WASHINGTON DC ROUTINE"
+    ]
+  },
+  {
+    "file": "059uap00013.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "UNCLASSIFIED",
+      "MRN",
+      "MEXICO",
+      "PREL",
+      "ASEC"
+    ],
+    "top_gpe": [
+      "Mission Mexico's",
+      "Mexico City's",
+      "Jalisco",
+      "Fulll",
+      "Mexico City"
+    ]
+  },
+  {
+    "file": "65_hs1-834228961_62-hq-83894_section_6.OCR.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Blumenthal"
+      ],
+      [
+        "PERSON",
+        "Page"
+      ]
+    ],
+    "top_orgs": [
+      "FBI Automatic Declassification Guide",
+      "FBI",
+      "MISCELLANEOUS - INFORMATION CONCERNING",
+      "the University of New Mexico",
+      "Land-Air Inc"
+    ],
+    "top_gpe": [
+      "NEW MEXICO",
+      "New Merico",
+      "Alamogordo",
+      "New Mexico",
+      "USSR"
+    ]
+  },
+  {
+    "file": "dos-uap-d1-cable-1-papua-new-guinea-january-1985.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "SS-00 CIAE-00 DODE-00"
+      ]
+    ],
+    "top_orgs": [
+      "UNCLASSIFIED",
+      "USCINCPAC",
+      "PP",
+      "IJohn Powers",
+      "US Department of State"
+    ],
+    "top_gpe": [
+      "ANGORAM",
+      "US"
+    ]
+  },
+  {
+    "file": "dos-uap-d2-cable-2-kazakhstan-january-1994.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "DUSHANBE 259 Date/DTG",
+      "TAJIK AIR",
+      "ED",
+      "TAJIK AIR PILOTS",
+      "CIA"
+    ],
+    "top_gpe": [
+      "MOSCOW",
+      "EAIR",
+      "KZ",
+      "CIRCLES"
+    ]
+  },
+  {
+    "file": "dow-uap-d10-mission-report-middle-east-may-2022.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "SECRET//REL TO USA",
+      "FVEY Declassified",
+      "FVEY",
+      "ISO"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d12-mission-report-iraq-may-2022.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "FVEY Declassified",
+      "AIRHANDLER",
+      "RTB",
+      "FMV"
+    ],
+    "top_gpe": [
+      "OKAS",
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d14-mission-report-iraq-may-2022.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "FVEY Declassified",
+      "ACFT",
+      "UAP",
+      "OBSERVED"
+    ],
+    "top_gpe": [
+      "LIC2",
+      "US",
+      "QC",
+      "ISRAEL",
+      "DD"
+    ]
+  },
+  {
+    "file": "dow-uap-d16-mission-report-syria-july-2022.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "fBtfflff",
+      "TF CHOSIN",
+      "MUWAFFAQ SALTI AB",
+      "UAP"
+    ],
+    "top_gpe": [
+      "MSGID",
+      "US",
+      "TF",
+      "NSTR"
+    ]
+  },
+  {
+    "file": "dow-uap-d18-mission-report-iraq-december-2022.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "RTB",
+      "FMV",
+      "\u2022 Associated Caveats",
+      "Classification Guide ID"
+    ],
+    "top_gpe": [
+      "OKAS",
+      "IRAQ",
+      "US",
+      "EAST IVO"
+    ]
+  },
+  {
+    "file": "dow-uap-d19-mission-report-syria-february-21-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "KN",
+      "KT",
+      "TOOK OFF",
+      "DCA IVO ESSA"
+    ],
+    "top_gpe": [
+      "AL",
+      "NSTR",
+      "US",
+      "FL270",
+      "TURKEY"
+    ]
+  },
+  {
+    "file": "dow-uap-d20-mission-report-southern-united-states-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "N8ifefflf",
+      "UM",
+      "FV\u00a3Y",
+      "OEPS"
+    ],
+    "top_gpe": [
+      "US",
+      "NSTR"
+    ]
+  },
+  {
+    "file": "dow-uap-d23-mission-report-united-arab-emirates-october-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Harrison"
+      ],
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "llMIJI ifl",
+      "USCENTCOM",
+      "PI",
+      "OMAM",
+      "AIRHANDLER"
+    ],
+    "top_gpe": [
+      "US",
+      "KTAS"
+    ]
+  },
+  {
+    "file": "dow-uap-d25-mission-report-greece-january-2024.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "SECRET//REL TO USA",
+      "FVEY Declassified",
+      "FVEY",
+      "FMV"
+    ],
+    "top_gpe": [
+      "US",
+      "BLACK"
+    ]
+  },
+  {
+    "file": "dow-uap-d27-mission-report-united-arab-emirates-october-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "OMAM",
+      "RTB",
+      "UAP",
+      "LANDED"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d28-mission-report-east-china-sea-2024.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "SECRET//REL TO USA",
+      "FVEY Declassified",
+      "FVEY",
+      "REL TO USA",
+      "FVEY \u2022 Classification Source"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d3-mission-report-arabian-gulf-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Admin"
+      ]
+    ],
+    "top_orgs": [
+      "Classification Guide ID",
+      "YYYYMMDD",
+      "MAJCOM",
+      "\u2022 Combatant Command",
+      "COCOM"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d32-mission-report,-syria-october-2024.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "SECRET//REL TO USA",
+      "FVEY Declassified",
+      "FVEY",
+      "PERFORMED FMV/SIGINT COLLECTION",
+      "LANDED"
+    ],
+    "top_gpe": [
+      "AT",
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d33-mission-report-greece-october-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "Narrative l AT",
+      "PERFO D FMV/SIGINT COLLECTION",
+      "UAP",
+      "IX FMV"
+    ],
+    "top_gpe": [
+      "US",
+      "Hamson"
+    ]
+  },
+  {
+    "file": "dow-uap-d35-mission-report-greece-october-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Hamson"
+      ],
+      [
+        "PERSON",
+        "RETURNED"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "THE LRE.(l;:]PROCEEDED TO FRAGGED TASKING",
+      "PERFO D FMV/SIGINT COLLECTION",
+      "UAP",
+      "IX FMV"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d38-range-fouler-debrief-middle-east-may-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ],
+      [
+        "PERSON",
+        "mm"
+      ],
+      [
+        "PERSON",
+        "JMPS"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "Plea",
+      "Range Fouler Debrie Form",
+      "BFM",
+      "Contact Alt Speed"
+    ],
+    "top_gpe": [
+      "MM"
+    ]
+  },
+  {
+    "file": "dow-uap-d4-mission-report-arabian-gulf-2020.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "GENTEXT/UAP \u2022 Description",
+      "UAP IVO",
+      "UAP ALTITUDE ESTIMATES",
+      "UAP INCREASED SPEED",
+      "SECRET//REL TO USA"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d42-range-fouler-debrief-japan-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "aJJe"
+      ],
+      [
+        "PERSON",
+        "mm"
+      ],
+      [
+        "PERSON",
+        "Worl"
+      ]
+    ],
+    "top_orgs": [
+      "Range Fouler Debrief Form",
+      "Rank Pilot",
+      "First Name Squadron SfPR Email Address Crew Position",
+      "BFM",
+      "Contact Alt Speed"
+    ],
+    "top_gpe": [
+      "MM"
+    ]
+  },
+  {
+    "file": "dow-uap-d44-range-fouler-arabian-sea-october-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Ric1ard Har\u2022,sori"
+      ],
+      [
+        "PERSON",
+        "Range Fouler Reportin\ufffd Form"
+      ]
+    ],
+    "top_orgs": [
+      "SHI \u2022",
+      "Tile",
+      "First Name Rank Squadron SIPR E",
+      "Address Crew Position",
+      "squadr::n"
+    ],
+    "top_gpe": [
+      "sa::ar",
+      "MM"
+    ]
+  },
+  {
+    "file": "dow-uap-d48-report-september-1996.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Atlas"
+      ],
+      [
+        "PERSON",
+        "AFSC"
+      ]
+    ],
+    "top_orgs": [
+      "RESEARCH TRIANGLE INSTITUTE /RTI Contract No \u25a0- FO4703-91-C-0112",
+      "Department of the Air Force",
+      "Safety Office - 45",
+      "US Government",
+      "Safety Office"
+    ],
+    "top_gpe": [
+      "Cocoa Beach",
+      "Arlington",
+      "VA",
+      "Washington",
+      "Titan"
+    ]
+  },
+  {
+    "file": "dow-uap-d49-launch-summary-february-2000.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "AFSC"
+      ]
+    ],
+    "top_orgs": [
+      "Office of History \u2022 \u2022",
+      "SW/XPR 1 45th SW/HO 1 30th SW/CCT 1 SMC/HO 1",
+      "OSS",
+      "TEM",
+      "Boeing Defense & Space Group"
+    ],
+    "top_gpe": [
+      "California",
+      "Cape Canaveral",
+      "Florida",
+      "DASO",
+      "DESIGNATION"
+    ]
+  },
+  {
+    "file": "dow-uap-d5-mission-report-arabian-gulf-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "VELOCITY"
+      ],
+      [
+        "PERSON",
+        "UAP SPEED REMAINED CONSTANT"
+      ]
+    ],
+    "top_orgs": [
+      "GENTEXT/UAP \u2022 Description",
+      "UAP",
+      "KNOTS",
+      "FL160 TO FL170"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d50-email-correspondence-indopacom-april-2025.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "con\ufb01rm"
+      ]
+    ],
+    "top_orgs": [
+      "AOR",
+      "INDOPACOM",
+      "Intel Data Analysis Technician Team Lead",
+      "AF",
+      "UAP"
+    ],
+    "top_gpe": [
+      "UNCLASSIFIED",
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Size"
+      ]
+    ],
+    "top_orgs": [
+      "OSI CI Collections and",
+      "AFOSI",
+      "IIR"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d52-email-correspondance-na-august-2024.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "Intel Data Analysis Technician",
+      "AF",
+      "U.S Aircraft",
+      "UAP",
+      "The U.S Aircraft"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d54-mission-report-mediterranean-sea-na.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "\u2022 Gentext"
+      ]
+    ],
+    "top_orgs": [
+      "UAP",
+      "RTB"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d55-mission-report-syria-november-2016.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Hamson"
+      ]
+    ],
+    "top_orgs": [
+      "NM",
+      "P-IA",
+      "KCTG",
+      "EO",
+      "P-8 aircraft"
+    ],
+    "top_gpe": [
+      "Latakla",
+      "Iapprox",
+      "Latakia"
+    ]
+  },
+  {
+    "file": "dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Buno"
+      ],
+      [
+        "PERSON",
+        "mm"
+      ],
+      [
+        "PERSON",
+        "JMPS"
+      ]
+    ],
+    "top_orgs": [
+      "Ge",
+      "CAS",
+      "BFM",
+      "Wings/",
+      "ECM Letter"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d57-mission-report-gulf-of-aden-september-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "mm"
+      ],
+      [
+        "PERSON",
+        "JMPS"
+      ]
+    ],
+    "top_orgs": [
+      "First Name Rank Squadron SfPR Email Address Crew Position",
+      "CAS",
+      "BFM",
+      "SS",
+      "Contact Alt Speed"
+    ],
+    "top_gpe": [
+      "MM",
+      "Aden"
+    ]
+  },
+  {
+    "file": "dow-uap-d58-range-fouler-debrief-na-october-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ],
+      [
+        "PERSON",
+        "li"
+      ],
+      [
+        "PERSON",
+        "mm"
+      ]
+    ],
+    "top_orgs": [
+      "Range Fouler Debrie Form",
+      "First Name Rank Squadron S/PR \u00a3",
+      "Address Crew Position",
+      "BFM",
+      "Contact Alt Speed"
+    ],
+    "top_gpe": [
+      "MM"
+    ]
+  },
+  {
+    "file": "dow-uap-d61-mission-report-persian-gulf-august-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "A. Harnso"
+      ],
+      [
+        "PERSON",
+        "Richard A. Hamson"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "AIRHANDLER",
+      "GULF OF OMAN",
+      "SEE IS~ LINE 1",
+      "RTB"
+    ],
+    "top_gpe": [
+      "OKAS",
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d62-mission-report-strait-of-hormuz-september-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "A. Harnsor"
+      ]
+    ],
+    "top_orgs": [
+      "iE LRE",
+      "GULF OF OMAN",
+      "UAP",
+      "RTB",
+      "19232,G:;]BANDf:D BACK TO TliS LRE"
+    ],
+    "top_gpe": [
+      "MSGID",
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d64-mission-report-iran-november-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ],
+      [
+        "PERSON",
+        "Richard A. Hamson"
+      ],
+      [
+        "PERSON",
+        "Sta"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "GULF OF OMAN",
+      "UAP",
+      "RTB",
+      "LANDED"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d7-mission-report-arabian-gulf-2020.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "\u2022 Gentext"
+      ]
+    ],
+    "top_orgs": [
+      "UAP",
+      "WINDS"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-d74-mission-report-syria-november-2023.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Brandon R. Tegtmeier"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "FOUO / Privacy Act",
+      "MB",
+      "LANDED",
+      "SECRET//REL TO USA"
+    ],
+    "top_gpe": [
+      "US",
+      "ASSESSED"
+    ]
+  },
+  {
+    "file": "dow-uap-d75-mission-report-gulf-of-aden-july-2024.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Brandon R. Tegtmeier"
+      ]
+    ],
+    "top_orgs": [
+      "SECRET//REL TO USA",
+      "FVEY USCENTCOM Chief",
+      "FOUO / Privacy Act",
+      "HANDBACK",
+      "DEVELOPMENT ISO NAVCENT IVO"
+    ],
+    "top_gpe": [
+      "US"
+    ]
+  },
+  {
+    "file": "dow-uap-d8-mission-report-djibouti-2025.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "\u2022 Gentext"
+      ]
+    ],
+    "top_orgs": [
+      "SWE",
+      "FVEY",
+      "NATO",
+      "SECRET//REL TO USA"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "dow-uap-pr20.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Richard A. Harrison"
+      ]
+    ],
+    "top_orgs": [
+      "USCENTCOM",
+      "Department of Defense OFFICE OF",
+      "MDR"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "nasa-uap-d1-apollo-12-transcript-1969.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Pete"
+      ],
+      [
+        "PERSON",
+        "Roger"
+      ],
+      [
+        "PERSON",
+        "Dick"
+      ],
+      [
+        "PERSON",
+        "Al"
+      ]
+    ],
+    "top_orgs": [
+      "CC Intrepid",
+      "CSM",
+      "RLS",
+      "Yankee Clipper",
+      "CMP"
+    ],
+    "top_gpe": [
+      "Houston",
+      "Hello",
+      "GO",
+      "Fredo",
+      "va"
+    ]
+  },
+  {
+    "file": "nasa-uap-d2-apollo-17-transcript-1972.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Jack"
+      ],
+      [
+        "PERSON",
+        "Bob"
+      ],
+      [
+        "PERSON",
+        "Ron"
+      ],
+      [
+        "PERSON",
+        "Gene"
+      ]
+    ],
+    "top_orgs": [
+      "CC",
+      "VI",
+      "EMS",
+      "SEP",
+      "CMP"
+    ],
+    "top_gpe": [
+      "Houston",
+      "Understand",
+      "XX",
+      "Dallas",
+      "Hawaii"
+    ]
+  },
+  {
+    "file": "nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Lyman"
+      ],
+      [
+        "PERSON",
+        "Gary Thomas"
+      ]
+    ],
+    "top_orgs": [
+      "CREW",
+      "JI",
+      "IEGT SIGNATOB LOG",
+      "ii?iiii!i!i?i[ii!i!!i",
+      "CONT"
+    ],
+    "top_gpe": [
+      "PLANETARY",
+      "HOUSTON",
+      "TEXAS",
+      "Colorado",
+      "OGO-5"
+    ]
+  },
+  {
+    "file": "serial-4-redacted_redacted.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Page"
+      ]
+    ],
+    "top_orgs": [
+      "UAP"
+    ],
+    "top_gpe": []
+  },
+  {
+    "file": "usper-statement-redacted.txt",
+    "top_persons": [],
+    "top_orgs": [
+      "FACIU",
+      "FACILITY",
+      "the Listening Post/Observation Post",
+      "Forward Looking Infrared",
+      "LP/OP"
+    ],
+    "top_gpe": [
+      "US",
+      "Ill"
+    ]
+  },
+  {
+    "file": "western_us_event_slides_5.08.2026.txt",
+    "top_persons": [
+      [
+        "PERSON",
+        "Size"
+      ]
+    ],
+    "top_orgs": [
+      "USPER6",
+      "Eye",
+      "Rings",
+      "AARO",
+      "USPER7"
+    ],
+    "top_gpe": []
+  }
+]
